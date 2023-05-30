@@ -15,7 +15,7 @@ const Hero = () => {
         </h2>
         <h3 className='max-w-md text-base my-5 text-center sm:text-left text-slate-700 dark:text-slate-400'>
           {/* eslint-disable-next-line react/no-unescaped-entities*/}
-          I'm a front-end developer.
+          I'm a Software Engineer.
         </h3>
         <Link
           href='/contact/'
