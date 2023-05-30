@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className='mx-auto max-w-[1110px] flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12 scroll-mt-40 widescreen:section-min-height tallscreen:section-min-height'>
       <article className='sm:w-1/2'>
-        <h2 className='text-[2.5rem] md:text-[3.5rem] lg:text-[4.5rem] font-bold text-center -translate-y-6 sm:text-left z-50 max-w-md text-slate-200 dark:text-white'>
+        <h2 className='text-[2.5rem] md:text-[3.5rem] lg:text-[4.5rem] font-bold text-center -translate-y-6 sm:text-left z-50 max-w-md text-white dark:text-white'>
           Nice to {/*<br className='hidden lg:hidden' />*/}
           {/* eslint-disable-next-line react/no-unescaped-entities*/}
           meet you! I'm{" "}
