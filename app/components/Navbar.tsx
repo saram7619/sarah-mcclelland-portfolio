@@ -49,7 +49,9 @@ export default function Navbar() {
             </svg>
           </Link>
 
-          <Link href='' className='text-white/90 hover:text-white'>
+          <Link
+            href='https://www.linkedin.com/in/sara-mc-clelland-747361255'
+            className='text-white/90 hover:text-white'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='25'
