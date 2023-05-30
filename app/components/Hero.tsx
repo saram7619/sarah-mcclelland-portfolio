@@ -18,7 +18,7 @@ const Hero = () => {
           I'm a front-end developer.
         </h3>
         <Link
-          href='/feedback/'
+          href='/contact/'
           className='flex flex-col text-white text-center underline-offset-8 underline decoration-green decoration-2 md:text-left hover:text-fuchsia-700'>
           CONTACT ME
         </Link>
