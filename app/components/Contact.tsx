@@ -28,7 +28,7 @@ export default function Contact() {
             <Link href='https://m.me/sara.mcclelland.7'>
               <FaFacebookMessenger />
             </Link>
-            <p>Sara McCelland</p>
+            <p>Sara McClelland</p>
 
             <Link href='mailto:saramcclelland@icloud.com'>
               <FaRegEnvelope />
