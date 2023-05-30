@@ -39,7 +39,7 @@ const Projects = () => {
         <div className='flex flex-row justify-between py-8'>
           <h2 className='text-white text-left text-4xl font-bold'>Projects</h2>
           <Link
-            href='/contact'
+            href='#contact'
             className='text-white text-right underline-offset-[10px] underline decoration-fuchsia-700 decoration-2 hover:text-fuchsia-700'>
             CONTACT ME
           </Link>
