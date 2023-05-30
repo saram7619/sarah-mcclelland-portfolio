@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Contact() {
   return (
     <section
-      id='feedback'
+      id='contact'
       className='bg-gray flex flex-col mx-auto max-w-[1110px] justify-center p-6 items-center gap-8'>
       <div className='lg:flex lg:flex-row lg:justify-between lg:w-full'>
         <div className='lg:w-1/2'>
