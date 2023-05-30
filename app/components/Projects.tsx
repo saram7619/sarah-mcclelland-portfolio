@@ -25,7 +25,7 @@ const PROJECT_DATA = [
   },
   {
     name: "Password Generator",
-    tags: ["HTML", "CSS", "React"],
+    tags: ["HTML", "CSS", "Typescript"],
     image: "/password-generator.webp",
     url: "https://smcc-password-generator-app.netlify.app/",
     repo: "https://saram7619.github.io/password-generator/",
