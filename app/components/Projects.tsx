@@ -61,12 +61,12 @@ const Projects = () => {
                   <div className='mt-32 flex flex-col justify-center items-center space-y-12'>
                     <Link
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
-                      href={`/projects/${project.url}`}>
+                      href={project.url}>
                       VIEW PROJECT
                     </Link>
                     <Link
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
-                      href={`/projects/${project.repo}`}>
+                      href={project.repo}>
                       VIEW CODE
                     </Link>
                   </div>
