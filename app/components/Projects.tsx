@@ -13,7 +13,7 @@ const PROJECT_DATA = [
     name: "Skilled E-Learning Landing Page",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/skilled-e-learning.webp",
-    url: "https://smcc-skilled-landing.netlify.app/",
+    url: "https://smcc-skilled-landing.page.netlify.app/",
     repo: "https://saram7619.github.io/skilled-e-learning-landing-page-solution/",
   },
   {
