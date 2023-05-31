@@ -6,7 +6,7 @@ const PROJECT_DATA = [
     name: "Single Page Design Portfolio",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/single-page.webp",
-    url: "https://single-page-portfolio.netlify.app/",
+    url: "https://smcc-single-page-portfolio.netlify.app/",
     repo: "https://saram7619.github.io/single-page-design-portfolio/",
   },
   {
