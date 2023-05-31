@@ -7,28 +7,28 @@ const PROJECT_DATA = [
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/single-page.webp",
     url: "https://smcc-single-page-portfolio.netlify.app/",
-    repo: "https://saram7619.github.io/single-page-design-portfolio/",
+    repo: "https://github.com/saram7619/single-page-design-portfolio/",
   },
   {
     name: "Skilled E-Learning Landing Page",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/skilled-e-learning.webp",
     url: "https://smcc-skilled-landing-page.netlify.app/",
-    repo: "https://saram7619.github.io/skilled-e-learning-landing-page-solution/",
+    repo: "https://github.com/saram7619/skilled-e-learning-landing-page-solution/",
   },
   {
     name: "Advice Generator App",
     tags: ["HTML", "CSS", "APIs", "React"],
     image: "/advice-slip-api.webp",
     url: "https://smcc-advice-generator.netlify.app/",
-    repo: "https://saram7619.github.io/fem_advice_generator_app/",
+    repo: "https://github.com/saram7619/fem_advice_generator_app/",
   },
   {
     name: "Password Generator",
     tags: ["HTML", "CSS", "Typescript"],
     image: "/password-generator.webp",
     url: "https://smcc-password-generator-app.netlify.app/",
-    repo: "https://saram7619.github.io/password-generator/",
+    repo: "https://github.com/saram7619/password-generator/",
   },
 ]
 
