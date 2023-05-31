@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en' className={space_grotesk.className}>
-      {/*<link rel='icon' href='/favicon.ico' />*/}
+      <link rel='icon' href='/favicon.png' />
       <body className='dark:bg-black text-white'>{children}</body>
     </html>
   )
