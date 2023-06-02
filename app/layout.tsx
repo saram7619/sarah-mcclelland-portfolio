@@ -9,7 +9,7 @@ const space_grotesk = Space_Grotesk({
 })
 
 export const metadata = {
-  title: "Frontend Developer Portfolio",
+  title: "Sara McClelland Software Engineer Portfolio",
   description: "Created by Sarah McClelland",
 }
 
