@@ -59,16 +59,16 @@ const Projects = () => {
                 </div>
                 <div className='hidden lg:block absolute top-0 right-0 left-0 w-full h-full bg-black opacity-0 group-hover:opacity-80 transition-opacity duration-300 ease-in-out'>
                   <div className='mt-32 flex flex-col justify-center items-center space-y-12'>
-                    <Link
+                    <a
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
                       href={project.url}>
                       VIEW PROJECT
-                    </Link>
-                    <Link
+                    </a>
+                    <a
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
                       href={project.repo}>
                       VIEW CODE
-                    </Link>
+                    </a>
                   </div>
                 </div>
               </div>
