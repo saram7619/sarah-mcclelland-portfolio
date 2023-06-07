@@ -59,16 +59,16 @@ const Projects = () => {
                 </div>
                 <div className='hidden lg:block absolute top-0 right-0 left-0 w-full h-full bg-black opacity-0 group-hover:opacity-80 transition-opacity duration-300 ease-in-out'>
                   <div className='mt-32 flex flex-col justify-center items-center space-y-12'>
-                    <a
+                    <Link
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
                       href={project.url}>
                       VIEW PROJECT
-                    </a>
-                    <a
+                    </Link>
+                    <Link
                       className='text-white text-base underline-offset-8 underline decoration-green hover:text-fuchsia-700'
                       href={project.repo}>
                       VIEW CODE
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -86,12 +86,12 @@ const Projects = () => {
               <div className='flex items-center space-x-6 my-6 lg:hidden'>
                 <Link
                   className='text-white text-base underline-offset-8 underline decoration-fuchsia-700 hover:text-fuchsia-700'
-                  href={`/projects/${project.url}`}>
+                  href={project.url}>
                   VIEW PROJECT
                 </Link>
                 <Link
                   className='text-white text-base underline-offset-8 underline decoration-fuchsia-700 hover:text-fuchsia-700'
-                  href={`/projects/${project.repo}`}>
+                  href={project.repo>
                   VIEW CODE
                 </Link>
               </div>
